@@ -1,0 +1,81 @@
+body{
+background:#2F2F2F;
+}
+.yourcart{
+  margin-right: 1px;;
+ width: 20%;
+  height: 44px;
+  border: 1px solid;
+  border-radius: 10px;
+  background: #FFCB74;
+  cursor: pointer;
+  position: fixed;
+  z-index: 2;
+}
+  .optionbox{
+  margin-top:1px;
+  width: 97%;
+  height: 60px;
+  background:#2F2F2F;
+  position: fixed;
+  border: 2px solid;
+  border-radius: 20px;
+  z-index: 2;
+    opacity: 0.7;
+  
+}
+.Uct{
+  margin-top: 15px;
+  margin-left:4%;
+  width: 15%;
+  height: 30px;
+  border: 1px solid;
+  border-radius: 10px;
+  background: #FFCB74;
+  cursor: pointer;
+  
+}
+button:active{
+  background-color:lightseagreen;
+}
+
+.shoes{
+  margin-left: 1%;
+  margin-top: 95px;
+  width: 93%;
+  height: 3000px;
+  background:#2F2F2F;
+  overflow: auto;
+  position: relative;
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 10px;
+}
+.shoeitm{
+  margin-left:2%;
+  width: 45%;
+  height: 150px;
+  border: 2px solid;
+  border-radius: 10px;
+  background: gray;
+  position:relative;
+}
+img{
+  width: 99%;
+  height: 82%;
+  border-radius: 10px;
+}
+.it1{
+  display: flex;
+  padding: 5px;
+}
+.addtocart{
+  margin-top: 1%;
+  margin-left: 7%;
+  width: 80%;
+  height: 14%;
+  border: 1px solid;
+  border-radius: 10px;
+  background: #FFCB74;
+  cursor: pointer;
+}
