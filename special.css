@@ -13,7 +13,7 @@ background:#2F2F2F;
   z-index: 2;
 }
   .optionbox{
-  margin-top:1px;
+  margin-top:3px;
   width: 97%;
   height: 60px;
   background:#2F2F2F;
@@ -25,10 +25,10 @@ background:#2F2F2F;
   
 }
 .Uct{
-  margin-top: 15px;
+  margin-top: 5px;
   margin-left:4%;
   width: 15%;
-  height: 30px;
+  height: 50px;
   border: 1px solid;
   border-radius: 10px;
   background: #FFCB74;
@@ -54,7 +54,7 @@ button:active{
 .shoeitm{
   margin-left:2%;
   width: 45%;
-  height: 150px;
+  height: 420px;
   border: 2px solid;
   border-radius: 10px;
   background: gray;
